@@ -10,3 +10,10 @@ class Turtle(Animal):
         print("because her parents are gone in river.")
 tur=Turtle("tur")
 tur.run()
+
+# iterator program.
+iter_list=iter(["Computer","Science","And","Technology"])
+print(next(iter_list))
+print(next(iter_list))
+print(next(iter_list))
+print(next(iter_list))
