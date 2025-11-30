@@ -17,3 +17,11 @@ print(next(iter_list))
 print(next(iter_list))
 print(next(iter_list))
 print(next(iter_list))
+
+# working procedure of itarator>>>
+a =[0,5,10,14,20]
+for i in  a:
+    if i%2==0:
+        print(str(i) + " is even number")
+    else:
+        print(str(i) + " is odd number")
