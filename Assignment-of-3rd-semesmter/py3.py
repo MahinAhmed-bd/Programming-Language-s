@@ -35,3 +35,27 @@ print("The square of numbers 1,2,3 are:")
 print(next(a))
 print(next(a))
 print(next(a))
+
+#Decorator program...
+def my_decorator(func):                                                 
+    def decorate():
+        print("-------")
+        func()
+        print("-------")
+    return decorate
+def print_raw():
+    print("BAngladesh")
+decorated_function=my_decorator(print_raw)
+decorated_function()
+
+#Decorator program...shct
+def my_decorator(func):
+    def decorate():
+        print("-------")
+        func()
+        print("-------")
+    return decorate
+
+@my_decorator
+def print_raw():
+    print("BAngladesh")
