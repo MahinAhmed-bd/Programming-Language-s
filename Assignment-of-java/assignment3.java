@@ -2,7 +2,7 @@ package com.mycompany.assignment3;
 
 /**
  *
- * @author Shazzad
+ * @author mahin
  */
 import java.util.Scanner;
 
