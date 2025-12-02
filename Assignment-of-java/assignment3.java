@@ -21,6 +21,8 @@ public class assignment3 {
         if (((a + b) > c) && ((b + c) > a) && ((c + a) > b)) {
             double Area = Math.sqrt(s * (s - a) * (s - b) * (s - c));
             System.out.println("The area of triangle is :" + Area);
+        } else {
+            System.out.println("Trinagle is not possible");
         }
     }
 }
