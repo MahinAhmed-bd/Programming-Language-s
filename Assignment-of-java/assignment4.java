@@ -1,12 +1,8 @@
-package com.mycompany.roots;
+package assignment4;
 
-/**
- *
- * @author Shazzad
- */
 import java.util.Scanner;
 
-public class Roots {
+public class assignment4s {
 
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
