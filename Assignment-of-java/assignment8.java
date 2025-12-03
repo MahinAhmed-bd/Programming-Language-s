@@ -1,8 +1,8 @@
-package com.mycompany.alltest;
+package assignment8;
 
 import java.util.Scanner;
 
-public class AllTEST {
+public class assignment8 {
 
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
