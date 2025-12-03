@@ -1,8 +1,8 @@
-package com.mycompany.grade;
+package assignment5;
 
 import java.util.Scanner;
 
-public class Grade {
+public class assignment5 {
 
     public static void main(String[] args) {
         int mark;
