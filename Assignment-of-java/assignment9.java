@@ -1,7 +1,8 @@
+package assignment9;
 
 import java.util.Arrays;
 
-public class array {
+public class assignment9 {
 
     public static void main(String[] args) {
         int i;
