@@ -1,5 +1,6 @@
+package assignment6;
 
-public class SeriesSum {
+public class assignment6 {
 
     public static void main(String[] args) {
         int i, sum = 0;
