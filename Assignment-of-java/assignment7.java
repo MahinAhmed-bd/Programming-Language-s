@@ -1,5 +1,6 @@
+package assignment7;
 
-public class printseries {
+public class assignment7 {
 
     public static void main(String[] args) {
         int i;
