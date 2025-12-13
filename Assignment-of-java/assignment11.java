@@ -1,4 +1,5 @@
 // assignment number 11
+// Method and Constructor
 
 import java.util.Scanner;
 
